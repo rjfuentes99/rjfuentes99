@@ -19,6 +19,7 @@ Visita mis redes para conocer un poco mas de mi
 * JavaScript 
 * React
 * HTML5 | CSS3 | Bootstrap
+* Angular
 
 ### Desarrollo Backend
 

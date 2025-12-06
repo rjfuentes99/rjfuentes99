@@ -4,9 +4,7 @@
 
 <p align="center">
   <strong>Desarrollador Full Stack</strong> con foco en Frontend | Java • Spring Boot • Angular • React • Node.js • MySQL
-</p></br> <p align="center">
-  <img src="https://cdna.artstation.com/p/assets/images/images/050/392/912/original/nelson-tiapa-gif-con-telefono.gif?1654734490" width="500px">
-</p>
+</p></br> <p align="center"><img src="https://cdna.artstation.com/p/assets/images/images/050/392/912/original/nelson-tiapa-gif-con-telefono.gif?1654734490" width="500px"></p>
 
 # 💫 About Me:
 👨‍💻 Me apasiona crear interfaces modernas, fluidas y funcionales.<br>⚡ Experiencia con Java/Spring, Angular, React TSX, Node.js, MySQL, Git.<br>🧩 Me gusta resolver problemas y optimizar experiencias de usuario.<br>🌱 Siempre aprendiendo nuevas tecnologías y mejores prácticas.<br>🎯 Objetivo actual: Escalar mis proyectos y crear soluciones limpias y eficientes.

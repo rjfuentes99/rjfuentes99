@@ -1,11 +1,11 @@
 <h1 align="center">✨ ¡Hola, soy Ricardo Fuentes! ✨</h1>
 
-<p align="center">
-  <img src="https://cdna.artstation.com/p/assets/images/images/050/392/912/original/nelson-tiapa-gif-con-telefono.gif?1654734490" width="500px">
-</p>
+
 
 <p align="center">
   <strong>Desarrollador Full Stack</strong> con foco en Frontend | Java • Spring Boot • Angular • React • Node.js • MySQL
+</p></br> <p align="center">
+  <img src="https://cdna.artstation.com/p/assets/images/images/050/392/912/original/nelson-tiapa-gif-con-telefono.gif?1654734490" width="500px">
 </p>
 
 # 💫 About Me:

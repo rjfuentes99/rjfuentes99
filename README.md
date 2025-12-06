@@ -31,15 +31,7 @@
 |---------|-------------|-------------|
 | ⭐ **Landing corporativa** | Página profesional rápida, optimizada y responsive. | React • CSS animado • Vercel |
 | 🚀 **Sistema de carrito completo** | Carrito funcional con cantidades, categorías y diseño responsive. | React TSX |
-| 🗂️ **Calendario con modal dinámico** | Mapa de eventos con modales inteligentes. | Angular • TypeScript |
-
----
-
-## 📊 Estadísticas de GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rjfuentes99&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjfuentes99&layout=compact&theme=tokyonight" height="165"/>
-</p>
+| 
 
 ---
 

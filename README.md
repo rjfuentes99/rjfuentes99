@@ -35,13 +35,6 @@
 
 ---
 
-## ✨ Un toque animado
-<p align="center">
-  <img src="https://media.giphy.com/media/ZZgvdMrD7VjTi/giphy.gif" width="300px">
-</p>
-
----
-
 ## 📫 Cómo contactarme
 [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rjose.fmarin99@gmail.com)  
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfoliorjfuentes99.zeabur.app/)  

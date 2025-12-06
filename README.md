@@ -1,7 +1,7 @@
 <h1 align="center">✨ ¡Hola, soy Ricardo Fuentes! ✨</h1>
 
 <p align="center">
-  <img src="https://cdna.artstation.com/p/assets/images/images/050/392/912/original/nelson-tiapa-gif-con-telefono.gif?1654734490" width="105px">
+  <img src="https://cdna.artstation.com/p/assets/images/images/050/392/912/original/nelson-tiapa-gif-con-telefono.gif?1654734490" width="500px">
 </p>
 
 <p align="center">

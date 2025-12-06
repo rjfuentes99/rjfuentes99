@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>Desarrollador Full Stack</strong> con foco en Frontend | Java • Spring Boot • Angular • React • Node.js • MySQL
-</p></br> <p align="center"><img src="https://giphy.com/stickers/Atom6studio-astronaut-atom6-atom-6-kimWBtJDjWcwFH2nRB" width="350px"></p>
+</p></br> <p align="center"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWpmeGlkbmd4MGgwenIya3JmODI4amVyaXJzZzA5eTJnNjB3cDZhdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kimWBtJDjWcwFH2nRB/giphy.gif" width="350px"></p>
 
 # 💫 About Me:
 👨‍💻 Me apasiona crear interfaces modernas, fluidas y funcionales.<br>⚡ Experiencia con Java/Spring, Angular, React TSX, Node.js, MySQL, Git.<br>🧩 Me gusta resolver problemas y optimizar experiencias de usuario.<br>🌱 Siempre aprendiendo nuevas tecnologías y mejores prácticas.<br>🎯 Objetivo actual: Escalar mis proyectos y crear soluciones limpias y eficientes.
